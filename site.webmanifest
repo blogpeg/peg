@@ -1,19 +1,19 @@
 {
-    "name": "Punheta em Grupo",
-    "short_name": "Punheta em Grupo",
+    "name": "Pirocagram.com",
+    "short_name": "Pirocagram",
     "icons": [
         {
-            "src": "https://i.imgur.com/TZ98Ir3.png",
+            "src": "https://i.imgur.com/RSCPZjv.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://i.imgur.com/TZ98Ir3.png",
+            "src": "https://i.imgur.com/RSCPZjv.png",
             "sizes": "384x384",
             "type": "image/png"
         }
     ],
-    "theme_color": "#714f4f",
-    "background_color": "#714f4f",
+    "theme_color": "#1a1110",
+    "background_color": "#1a1110",
     "display": "standalone"
 }
